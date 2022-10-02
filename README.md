@@ -1,0 +1,2 @@
+# sinderella
+set hourly alarm
